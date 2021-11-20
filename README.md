@@ -46,5 +46,6 @@ npm run both
 * Register Authentication
 
 ## Screenshots of Project
-
-
+<img src="./readmeimages/1.png"></img>
+<img src="./readmeimages/2.png"></img>
+<img src="./readmeimages/3.png"></img>
