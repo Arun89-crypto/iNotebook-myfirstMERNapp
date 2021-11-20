@@ -30,6 +30,7 @@ const Signup = () => {
     return (
         <>
             <div className="container px-10 py-10">
+                <h1>Sign Up</h1>
                 <Form onSubmit={handleSubmit}>
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>Name</Form.Label>

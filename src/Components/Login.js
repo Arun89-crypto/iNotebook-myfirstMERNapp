@@ -34,6 +34,7 @@ const Login = () => {
     return (
         <>
             <div className="container px-10 py-10">
+                <h1>Login</h1>
                 <Form onSubmit={handleSubmit}>
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>Email address</Form.Label>
